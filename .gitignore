@@ -1,0 +1,12 @@
+/*
+
+!/.github
+!/.idea
+!/.run
+!/tests
+
+!/.gitignore
+!/LICENSE
+!/README.md
+!/main.py
+!/simple_rsa.py
