@@ -1,5 +1,7 @@
 # Asymmetric cryptography example for beginners
 
+[![.github/workflows/tests.yml](https://github.com/vergissberlin/example-asymmetric-cryptography/actions/workflows/tests.yml/badge.svg)](https://github.com/vergissberlin/example-asymmetric-cryptography/actions/workflows/tests.yml)
+
 Example to asymmetric cryptography beginners. This example is a simple way to understand how asymmetric cryptography works.
 With this example, you can understand how to generate a public and private key, encrypt and decrypt a message.
 It uses the RSA algorithm to encrypt and decrypt the message. It is implemented in Python.
