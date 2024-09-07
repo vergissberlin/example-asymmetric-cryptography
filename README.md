@@ -24,10 +24,5 @@ python main.py
 
 To test the code, run the following command:
 ```bash
-python -m unittest tests/test_simple_rsa.py
-```
-
-Run all test under the *tests* folder:
-```bash
 python -m unittest discover -s tests -p "test_*.py"
 ```

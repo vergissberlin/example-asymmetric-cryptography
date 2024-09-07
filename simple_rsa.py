@@ -19,7 +19,7 @@ class SimpleRSA:
 
     # Erweiterter Euklidischer Algorithmus zur Berechnung des modularen Inversen
     def _mod_inverse(self, e, phi) -> int:
-        def egcd(a, b):
+        def egcd(a, b)-> tuple[int, int, int]:
             if a == 0:
                 return b, 0, 1
             else:
